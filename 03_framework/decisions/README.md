@@ -14,5 +14,6 @@ A decision is **Accepted** only when explicitly confirmed by the project owner. 
 | ED-004 | Coverage matrix across developmental stages | Proposed |
 | AD-001 | Markdown-first with structured metadata where useful | Proposed |
 | AD-002 | Separate educational and architectural decision records | Proposed |
+| AD-003 | [Adult-oriented developmental aims](AD-003-adult-oriented-developmental-aims.md) | Accepted |
 
 Future accepted decisions should have individual records covering context, alternatives, rationale, consequences and review date.
