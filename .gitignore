@@ -1,0 +1,10 @@
+# Private family data must never enter this public repository
+private/
+family-data/
+child-records/
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+.venv/
